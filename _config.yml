@@ -1,10 +1,10 @@
 # Site settings
-title: Jekyll Doc Theme
-email: your-email@domain.com
+title: Blog de Giovanni:p
+email: 250300495@ucaribe.edu.mx
 description: >
   Jekyll Template for Project Websites
   providing documentation and blog post pages.
-lang: en-US
+lang: es-MX
 
 baseurl: "/jekyll-doc-theme" # the subpath of your site, e.g. /blog/
 url: https://aksakalli.github.io/jekyll-doc-theme # the base hostname & protocol for your site
